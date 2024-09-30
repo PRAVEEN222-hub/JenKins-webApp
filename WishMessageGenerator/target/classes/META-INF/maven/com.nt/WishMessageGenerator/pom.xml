@@ -30,4 +30,22 @@
 </dependency>
 
   </dependencies>
+  <build>
+  <fileName>JenkinsWebApp</fileName>
+  <pluginMangment>
+  <plugins>
+  <plugin>
+
+  <artifactId>maven-clean-plugin</artifactId>
+  <version>3.4.0</version>
+  
+    </plugin>
+  </plugins>
+  
+  </pluginMangment>
+  
+  
+  
+  
+  </build>
 </project>
